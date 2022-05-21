@@ -1,4 +1,4 @@
-#  project
+# Elena Joy portfolio project
 
 "Elena Joy portfolio" website project from Dev Ed course
 
